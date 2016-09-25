@@ -71,7 +71,7 @@ css:
     valid: true
     bestPractices: true
     search:
-      - 'https\:\/\/gridifier\.web\-dev\.tools\/\#xs\,4\,0\,0\,0\;s\,4\,25\,0\,0\;m\,4\,38\,1\,1\;l\,4\,60\,1\,1'
+      - ['https://gridifier.web-dev.tools/#xs,4,0,0,0;s,4,25,0,0;m,4,38,1,1;l,4,60,1,1', 'The `grid.css` should be generated with Gridifier’s default settings']
 
 screenshots:
   - path: 'index.html'
